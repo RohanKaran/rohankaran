@@ -1,6 +1,6 @@
-### Hi there, I'm Rohan Karan[website] 👋 
+# Hi there, I'm Rohan Karan[website] 👋 
 
-# I am currently a final year Undergrad at IIESTS studying Civil Engineering . Looking forward to solving problems using data and machine learning
+## I am currently a final year Undergrad at IIESTS studying Civil Engineering . Looking forward to solving problems using data and machine learning
 
 [![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohankaran001)
 
