@@ -2,7 +2,7 @@
 
 #I am currently a final year Undergrad at IIESTS studying Civil Engineering . Looking forward to solving problems using data and machine learning
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RohanKaran01)
+[![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohankaran001)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
