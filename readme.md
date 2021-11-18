@@ -1,10 +1,8 @@
-## Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 
+### Hi there, I'm Rohan Karan[website] 👋 
 
-#I am currently a final year Undergrad at IIESTS studying Civil Engineering . Looking forward to solving problems using data and machine learning
+# I am currently a final year Undergrad at IIESTS studying Civil Engineering . Looking forward to solving problems using data and machine learning
 
 [![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohankaran001)
-
-## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
