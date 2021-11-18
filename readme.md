@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
-[<img align="left" alt="Rohan Karan | HackerRank" width="22px" src="https://github.com/seanyeh/fontawesome-svgs/blob/master/svg/hackerrank-brands.svg" />][hackerrank]
+[<img align="left" alt="Rohan Karan | HackerRank" width="22px" src="https://commons.wikimedia.org/wiki/File:HackerRank_Icon-1000px.png" />][hackerrank]
 [<img align="left" alt="Rohan Karan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rohan Karan | Twitter" width="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg">][codechef]
 <br />
