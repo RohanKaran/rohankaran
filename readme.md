@@ -1,4 +1,5 @@
-# Hi there, I'm Rohan Karan 👋 
+# Hi there, I'm Rohan Karan 👋
+{: .gitlab-orange}
 
 ## I am currently a third year undergrad at IIEST Shibpur. Looking forward to solving problems using data and machine learning.
 
@@ -11,7 +12,7 @@
 ### Connect with me:
 [<img align="left" alt="Rohan Karan | HackerRank" width="30px" src="https://github.com/seanyeh/fontawesome-svgs/blob/master/svg/hackerrank-brands.svg" />][hackerrank]
 [<img align="left" alt="Rohan Karan | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rohan Karan | Codechef" width="22px" src="https://simpleicons.org/icons/codechef.svg" />][codechef]{: .gitlab-orange}
+[<img align="left" alt="Rohan Karan | Codechef" width="30px" src="https://simpleicons.org/icons/codechef.svg" />][codechef]
 <br />
 
 ### Languages and Tools:
