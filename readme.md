@@ -9,9 +9,9 @@
 - ⚡ Fun fact: I love to watch sci-fi movies
 
 ### Connect with me:
-[<img align="left" alt="Rohan Karan | HackerRank" width="22px" src="https://github.com/seanyeh/fontawesome-svgs/blob/master/svg/hackerrank-brands.svg" />][hackerrank]
-[<img align="left" alt="Rohan Karan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rohan Karan | Twitter" width="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg">][codechef]
+[<img align="left" alt="Rohan Karan | HackerRank" width="30px" src="https://github.com/seanyeh/fontawesome-svgs/blob/master/svg/hackerrank-brands.svg" />][hackerrank]
+[<img align="left" alt="Rohan Karan | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rohan Karan | Twitter" width="30px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg">][codechef]
 <br />
 
 ### Languages and Tools:
