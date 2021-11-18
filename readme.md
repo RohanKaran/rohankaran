@@ -1,6 +1,6 @@
 ## Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 
+
 #I am currently a final year Undergrad at IIESTS studying Civil Engineering . Looking forward to solving problems using data and machine learning
-###Coneect with me:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RohanKaran01)
 
