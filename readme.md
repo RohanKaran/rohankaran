@@ -34,7 +34,7 @@
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [hackerrank]: https://hackerrank.com/rohankaran
-[codechef]: https://codechef.com/user/rohankaran
+[codechef]: https://codechef.com/users/rohankaran
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/rohankaran001
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
