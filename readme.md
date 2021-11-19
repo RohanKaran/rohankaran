@@ -16,7 +16,7 @@
 <br/>
 
 ### Languages and Tools:
-<img align="left" alt="Python" width="32px" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="Python" width="35px" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Jupyter" width="30px" src = "https://jupyter.org/assets/main-logo.svg"/>
 <img align="left" alt="MySQL" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/mysql.svg" />
 <img align="left" alt="SQLite" width="30px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/sqlite.svg">
