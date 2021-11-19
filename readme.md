@@ -23,7 +23,7 @@
 <img align="left" alt="SQLite" width="30px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/sqlite.svg">
 <img align="left" alt="C" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg"/>
 <img align="left" alt="Git" width="30px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/git.svg" />
-![GitHub Light](https://github.com/RohanKaran/simple-icons/blob/develop/icons/git.svg)
+![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
