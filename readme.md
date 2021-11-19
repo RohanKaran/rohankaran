@@ -23,7 +23,7 @@
 <img align="left" alt="C" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg"/>
 <img align="left" alt="Git" width="30px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/git.svg" />
 
-![GitHub Light| width=30px](https://github.com/RohanKaran/simple-icons/blob/develop/icons/github.svg )
+[[https://github.com/RohanKaran/simple-icons/blob/develop/icons/github.svg|width=30px]]
 
 ![GitHub Dark| width=30px](https://github.com/RohanKaran/simple-icons/blob/develop/icons/github.svg)
 
