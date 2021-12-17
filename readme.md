@@ -32,8 +32,6 @@
 ---
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankaran&show_icons=true)
 
-<br/>
-<br/>
 
 [hackerrank]: https://hackerrank.com/rohankaran
 [codechef]: https://codechef.com/users/rohankaran
