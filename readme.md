@@ -10,8 +10,8 @@
 
 
 ### Connect with me:
-[<img align="left" alt="Rohan Karan | HackerRank" width="30px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Rohan Karan | LinkedIn" width="30px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rohan Karan | HackerRank" width="30px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Rohan Karan | Codechef" width="30px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/codechef.svg"/>][codechef]
 <br/>
 
@@ -35,7 +35,7 @@
 
 
 
-[hackerrank]: https://hackerrank.com/rohankaran
+[hackerrank]: https://hackerrank.com/captainrk
 [codechef]: https://codechef.com/users/rohankaran
 [instagram]: https://instagram.com/rohankaran_official
 [linkedin]: https://linkedin.com/in/rohankaran001
