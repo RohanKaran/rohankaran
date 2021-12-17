@@ -31,7 +31,8 @@
 
 ---
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankaran&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankaran)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankaran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [hackerrank]: https://hackerrank.com/rohankaran
