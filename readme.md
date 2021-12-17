@@ -30,7 +30,7 @@
 <br/>
 
 ---
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankaran&show_icons=true)
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankaran&show_icons=true&count_private=true)
 
 
 [hackerrank]: https://hackerrank.com/rohankaran
