@@ -35,7 +35,7 @@
 
 
 
-[hackerrank]: https://hackerrank.com/captainrk
-[codechef]: https://codechef.com/users/rohankaran
+[hackerrank]: https://hackerrank.com/rohankaran
+[codechef]: https://codechef.com/users/captainrk
 [instagram]: https://instagram.com/rohankaran_official
 [linkedin]: https://linkedin.com/in/rohankaran001
