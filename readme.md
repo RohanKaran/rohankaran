@@ -18,7 +18,7 @@
 ### Languages and Tools:
 <code><img align="left" alt="Python" width="35px" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Jupyter" width="30px" src = "https://jupyter.org/assets/main-logo.svg"/>
-<img align="left" alt="FastAPI" width="30px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png">
+<img align="left" alt="FastAPI" width="30px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/fastapi.svg">
 <img align="left" alt="React" width="30px" src="https://github.com/RohanKaran/devicon/blob/master/icons/react/react-original.svg">
 <img align="left" alt="MongoDB" width="30px" src="https://github.com/RohanKaran/devicon/blob/master/icons/mongodb/mongodb-original.svg">
 <img align="left" alt="MySQL" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/mysql.svg" />
