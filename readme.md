@@ -10,13 +10,13 @@
 
 
 ### Connect with me:
-[<img align="left" alt="Rohan Karan | LinkedIn" width="35px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rohan Karan | LinkedIn" width="30px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rohan Karan | HackerRank" width="30px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Rohan Karan | Codechef" width="30px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/codechef.svg"/>][codechef]
 <br/>
 
 ### Languages and Tools:
-<code><img align="left" alt="Python" width="30px" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<code><img align="left" alt="Python" width="34px" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Jupyter" width="30px" src = "https://github.com/RohanKaran/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" alt="FastAPI" width="30px" src="https://github.com/RohanKaran/simple-icons/blob/develop/icons/fastapi.svg">
 <img align="left" alt="React" width="30px" src="https://github.com/RohanKaran/devicon/blob/master/icons/react/react-original.svg">
