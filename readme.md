@@ -33,6 +33,8 @@
 | <a href="https://github.com/rohankaran/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohankaran&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rohan's github stats" /></a> | <a href="https://github.com/rohankaran/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankaran&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohankaran&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [hackerrank]: https://hackerrank.com/rohankaran
