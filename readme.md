@@ -16,7 +16,7 @@
 <br/>
 
 ### Languages and Tools:
-<div style="flex: auto; padding-bottom: 20rem; ">
+<div style="flex: auto;">
 <img align="left" alt="Python" width="34px" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Jupyter" width="30px" src = "https://raw.githubusercontent.com/RohanKaran/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" alt="FastAPI" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/fastapi.svg">
@@ -30,6 +30,7 @@
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
+<br/>
 <br/>
 
 <div>
