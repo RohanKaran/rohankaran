@@ -29,8 +29,7 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
-<br/>
-<br/>
+<br/><br/>
 <div>
 
 | <a href="https://github.com/rohankaran/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohankaran&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rohan's github stats" /></a> | <a href="https://github.com/rohankaran/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankaran&theme=buefy&layout=compact&hide_border=true" /></a> |
