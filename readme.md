@@ -19,7 +19,7 @@
 <div style="flex: auto; word-wrap: auto !important; max-width: 100%">
 <img align="left" alt="Python" width="34px" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="FastAPI" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/fastapi.svg">
-<img align="left" alt="Flask" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/flask.svg">
+<img align="left" alt="Flask" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/flask-origianl.svg">
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/RohanKaran/devicon/master/icons/react/react-original.svg">
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/RohanKaran/devicon/master/icons/mongodb/mongodb-original.svg">
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" />
