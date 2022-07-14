@@ -34,7 +34,7 @@
 <br/><br/><br>
 <div>
 
-| <a href="https://github.com/rohankaran/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohankaran&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rohan's github stats" /></a> | <a href="https://github.com/rohankaran/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanKaran&theme=buefy&layout=compact&hide_border=true" /></a> | 
+| <a href="https://github.com/rohankaran/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanKaran&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rohan's github stats" /></a> | <a href="https://github.com/rohankaran/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanKaran&theme=buefy&layout=compact&hide_border=true" /></a> | 
 | ------------- | ------------- |
 
 </div>
