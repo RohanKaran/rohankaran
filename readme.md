@@ -1,6 +1,6 @@
 # Hi there, I'm Rohan Karan 👋
 
-## I am currently a third year undergrad at IIEST Shibpur. Looking forward to solving problems using data and machine learning.
+## Web Developer 
 
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohankaran001)
 
