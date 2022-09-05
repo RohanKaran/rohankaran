@@ -12,7 +12,6 @@
 ### Connect with me:
 [<img align="left" alt="Rohan Karan | LinkedIn" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rohan Karan | HackerRank" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="Rohan Karan | Codechef" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/codechef.svg"/>][codechef]
 <br/>
 
 ### Languages and Tools:
