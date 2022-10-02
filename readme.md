@@ -1,4 +1,4 @@
-# Hi there, I'm Rohan Karan 👋
+# Hi there, I'm Rohan Karan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ## Backend Developer and Machine Learning Enthusiast
 
