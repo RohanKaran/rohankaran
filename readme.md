@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
   Hi there, I'm Rohan Karan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-</h1>
+</h2>
 
 <h2 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Machine+Learning+Enthusiast;Open%20Source%20|%20Backend+Development%20|%20Machine+Learning&center=true&width=640&height=45">
@@ -16,6 +16,7 @@
 ### Connect with me:
 [<img align="left" alt="Rohan Karan | LinkedIn" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rohan Karan | HackerRank" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="Rohan Karan | HackerRank" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/leetcode.svg" />][leetcode]
 <br/>
 
 ### Languages and Tools:
@@ -45,6 +46,6 @@
 
 
 [hackerrank]: https://hackerrank.com/rohankaran
-[codechef]: https://codechef.com/users/captainrk
+[leetcode]: https://leetcode.com/rohankaran/
 [instagram]: https://instagram.com/rohankaran_official
 [linkedin]: https://linkedin.com/in/rohankaran001
