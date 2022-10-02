@@ -8,7 +8,7 @@
 </h2>
 
 - 👀 I’m interested in Open Source, Backend Development and Machine Learning
-- 🌱 I’m currently learning machine learning and DevOps
+- 🌱 I’m currently learning Machine Learning and DevOps
 - 💬 Ask me about Python, C++, SQL
 - ⚡ Fun fact: I love to watch sci-fi movies
 
