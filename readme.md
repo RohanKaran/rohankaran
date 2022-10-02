@@ -1,11 +1,11 @@
-<h2 align="center">
+<h3 align="center">
   Hi there, I'm Rohan Karan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-</h2>
+</h3>
 
-<h2 align="center">
+<h3 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Machine+Learning+Enthusiast;Open%20Source%20|%20Backend+Development%20|%20Machine+Learning&center=true&width=640&height=45">
   </a>
-</h2>
+</h3>
 
 - 👀 I’m interested in Open Source, Backend Development and Machine Learning
 - 🌱 I’m currently learning Machine Learning and DevOps
