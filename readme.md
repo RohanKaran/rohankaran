@@ -38,8 +38,8 @@
 
 <a href="https://github.com/rohankaran">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RohanKaran&column=8&theme=onedark">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=RohanKaran&column=8" alt="Rohan Karan's GitHub Trophies"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RohanKaran&column=7&no-frame=true&theme=onedark">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=RohanKaran&column=7&no-frame=true" alt="Rohan Karan's GitHub Trophies"/>
   </picture>
 </a>
 
