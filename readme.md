@@ -1,5 +1,5 @@
 <h1 align="center">
-  # Hi there, I'm Rohan Karan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+  Hi there, I'm Rohan Karan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 </h1>
 
 <h2 align="center">
