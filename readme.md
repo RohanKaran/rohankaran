@@ -1,6 +1,8 @@
-# Hi there, I'm Rohan Karan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<h1 align="center">
+  # Hi there, I'm Rohan Karan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+</h1>
 
-<h2>
+<h2 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Machine+Learning+Enthusiast;Open%20Source%20|%20Backend+Development%20|%20Machine+Learning&center=true&width=640&height=45">
   </a>
 </h2>
