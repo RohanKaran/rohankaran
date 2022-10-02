@@ -7,9 +7,8 @@
   </a>
 </h2>
 
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohankaran001)
-
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Open Source, Backend Development and Machine Learning
+- 🌱 I’m currently learning machine learning and DevOps
 - 💬 Ask me about Python, C++, SQL
 - ⚡ Fun fact: I love to watch sci-fi movies
 
