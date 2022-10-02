@@ -16,7 +16,7 @@
 ### Connect with me:
 [<img align="left" alt="Rohan Karan | LinkedIn" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rohan Karan | HackerRank" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="Rohan Karan | HackerRank" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="Rohan Karan | HackerRank" width="30px" src="[https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/leetcode.svg](https://leetcode.com/favicon.ico)" />][leetcode]
 <br/>
 
 ### Languages and Tools:
