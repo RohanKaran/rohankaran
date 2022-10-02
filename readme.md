@@ -1,6 +1,9 @@
 # Hi there, I'm Rohan Karan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-## Backend Developer and Machine Learning Enthusiast
+<h2>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Machine+Learning+Enthusiast;Open%20Source%20|%20Backend+Development%20|%20Machine+Learning&center=true&width=640&height=45">
+  </a>
+</h2>
 
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohankaran001)
 
