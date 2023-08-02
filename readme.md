@@ -8,8 +8,7 @@
 </h3>
 
 - 👀 I’m interested in Open Source, Backend Development and Machine Learning
-- 🌱 I’m currently learning Machine Learning and DevOps
-- 💬 Ask me about Python, C++, SQL
+- 💬 Ask me about Python, JavaScript, SQL
 - ⚡ Fun fact: I love to watch sci-fi movies
 
 
@@ -27,11 +26,8 @@
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/RohanKaran/devicon/master/icons/react/react-original.svg">
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/RohanKaran/devicon/master/icons/mongodb/mongodb-original.svg">
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" />
-<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/RohanKaran/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/git.svg" />
 <img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/github.svg" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 <br/><br/><br>
 <div>
