@@ -26,8 +26,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RohanKaran&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<br/>
-
 [hackerrank]: https://hackerrank.com/rohankaran
 [leetcode]: https://leetcode.com/rohankaran/
 [instagram]: https://instagram.com/rohankaran001
