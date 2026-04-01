@@ -20,11 +20,11 @@
 <br/>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=go,python,kubernetes,docker,terraform,postgres,kafka,aws,git,fastapi,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,kubernetes,docker,terraform,postgres,kafka,aws,git,fastapi,flask)](https://github.com/RohanKaran)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RohanKaran&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RohanKaran&theme=dark&hide_border=true)](https://github.com/RohanKaran)
 
 [hackerrank]: https://hackerrank.com/rohankaran
 [leetcode]: https://leetcode.com/rohankaran/
