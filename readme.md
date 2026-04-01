@@ -20,33 +20,13 @@
 <br/>
 
 ### Languages and Tools:
-<div>
-<img align="left" alt="Go" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
-<img align="left" alt="Python" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="Kubernetes" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="Docker" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<img align="left" alt="Terraform" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />
-<img align="left" alt="PostgreSQL" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Kafka" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" />
-<img align="left" alt="AWS" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/RohanKaran/simple-icons/develop/icons/git.svg" />
-</div>
-<br/><br/><br>
-<div>
+[![My Skills](https://skillicons.dev/icons?i=go,python,kubernetes,docker,terraform,postgres,kafka,aws,git,fastapi,flask)](https://skillicons.dev)
 
-  <a href="https://github.com/rohankaran">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RohanKaran&column=7&theme=onedark">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=RohanKaran&column=7" alt="Rohan Karan's GitHub Trophies"/>
-    </picture>
-  </a>
-  
-  <br/>
-</div>
+<br/>
 
-| <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rohankaran&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true">   <picture>   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RohanKaran&count_private=true&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true"> <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RohanKaran&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true" alt="Rohan's github stats"/>   </picture>   </a> | <a href="https://github.com/rohankaran/">   <picture>   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RohanKaran&theme=dark&layout=compact&hide_border=true">   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RohanKaran&theme=buefy&layout=compact&hide_border=true" />   </picture>   </a> |
-| ------------- | ------------- | 
+[![GitHub Streak](https://streak-stats.demolab.com?user=RohanKaran&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+<br/>
 
 [hackerrank]: https://hackerrank.com/rohankaran
 [leetcode]: https://leetcode.com/rohankaran/
