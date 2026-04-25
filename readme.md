@@ -9,7 +9,6 @@
 </h3>
 
 - 🔧 Building Go services, Kafka consumers, and Kubernetes workloads at a YC-backed startup
-- 🛠️ Author of [kubectl-crashloop](https://github.com/RohanKaran/kubectl-crashloop) — a kubectl plugin on Krew for diagnosing pod crashes
 - 💬 Ask me about Go, Python, Kubernetes, distributed systems
 - ⚡ Fun fact: I love sci-fi movies with twist endings
 
